@@ -1,0 +1,92 @@
+{
+  "name": "José Alarcón",
+  "backImage": "../assets/img/fondo.jpg",
+  "photo": "../assets/img/FotoJose.jpg",
+  "about":"Soy Ingeniero en Industria Forestal, Resiliente, con experiencia en el area metalúgica y con mucha curiosidad por la tecnologia que mueve al mundo",
+  "title": "Desarrollador Full stack Jr",
+
+  "share":     
+  {
+    "twitter":"alarcon20",
+    "linkedin":"linkedin",
+    "instagram":"insta"
+  },
+
+  "experience": [
+    {
+      "image":"https://www.codester.com/static/uploads/items/000/036/36553/preview-xl.jpg",
+      "name":"MegaTech",
+      "title": "Analista de Datos",
+      "date":"2020",
+      "description":"Analisis de Datos en la seccional"
+    },
+    {
+      "image":"https://cdn5.f-cdn.com/contestentries/1660161/35792855/5dc830408db06_thumb900.jpg",  
+      "name":"ATMGroup",
+      "title":"Desarrollador Frontend",
+      "date":"2020",
+      "description":"Desarrolador para Medios de Pagos"
+    }
+  ],
+
+  "education": [
+    {
+      "image":"https://design-style-guide.freecodecamp.org/downloads/fcc_secondary_small.svg",
+      "school":"FreeCodeCamp",
+      "title":"Html Basico",
+      "date":"2014-2015",
+      "description":"Nociones Basicas de Introducción HTML"
+    },
+    {
+      "image":"https://images.squarespace-cdn.com/content/v1/56e2e0c520c6472a2586add2/1586879796183-L90ES8CXA0KLTHTMM0VR/Training+Company+Logos+%2825%29.png",
+      "school":"FreeCodeCamp",
+      "title":"Html Basico",
+      "date":"2014-2015",
+      "description":"Nociones Basicas de Introducción HTML"
+    }
+  ],
+
+  "skills":[ 
+    {
+      "name":"HTML",
+      "percentage":"75%",
+      "value":75   
+    },
+    {
+      "name":"CSS",
+      "percentage":"60%",
+      "value":60   
+    },
+    {
+    "name":"JAVASCRIPT",
+    "percentage":"55%",
+    "value":55   
+    },
+    {
+      "name":"NODE.Js",
+      "percentage":"60%",
+      "value":60   
+    },
+    {
+      "name":"PHYTON",
+      "percentage":"25%",
+      "value":25   
+    },
+    {
+      "name":"MYSQL",
+      "percentage":"25%",
+      "value":25   
+    }
+  
+],
+
+ "projects": [
+  {
+    "image":"https://img.freepik.com/vector-premium/diseno-logo-pizza_9845-319.jpg?w=2000",
+    "name":"Pizzeria Luro",
+    "date":"2021",
+    "description":"Colaboracion en el Frontend de la construcción de la aplicación de pedidos",
+    "url":"https://play.google.com/store/apps/details?id=pizzerialuro"
+  }
+]
+}
